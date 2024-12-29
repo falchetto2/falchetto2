@@ -14,6 +14,6 @@ ich interessiere mich für programmieren, insbesondere für fullstack-programmin
 
 ## was hier zu finden ist 🌸
 
-- meine neovim-konfiguration🏄‍♀
+- meine neovim-konfiguration
 - kleine javascript-projekte
 - meine übungen und lernfortschritte in verschiedenen programmiersprachen und frameworks
