@@ -17,7 +17,3 @@ ich interessiere mich für programmieren, insbesondere fullstack-programming mit
 - meine neovim-konfiguration🏄‍♀
 - kleine javascript-projekte
 - meine übungen und lernfortschritte in verschiedenen programmiersprachen und frameworks
-
-## kontakt 📬
-
-du kannst mich über mein [github profil](https://github.com/falchetto2) erreichen oder mir eine nachricht auf **ennio.falchetto@gmail.com** schicken.
