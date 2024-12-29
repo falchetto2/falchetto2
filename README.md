@@ -2,7 +2,7 @@ hi, ich bin ennio falchetto, 17 jahre alt und gehe in die htl spengergasse. hier
 
 ## über mich 🌻
 
-ich interessiere mich für programmieren, insbesondere fullstack-programming mit javascript, html, css, react und datenbanken aber ich code auch in c# und möchte rust lernen. in meiner freizeit klettere ich gerne, höre/mache musik und bin viel in der natur unterwegs. außerdem liebe ich es, mit freunden zu reisen und neue abenteuer zu erleben.
+ich interessiere mich für programmieren, insbesondere fullstack-programming mit javascript, html, css, react und datenbanken aber ich code auch in c# und möchte rust lernen und robotik/machine learning studieren. in meiner freizeit klettere ich gerne, höre/mache musik und bin viel in der natur unterwegs. außerdem liebe ich es, mit freunden zu reisen und neue abenteuer zu erleben.
 
 ## was ich mache 🧑🏻‍💻
 
