@@ -11,9 +11,3 @@ ich interessiere mich für programmieren, insbesondere für fullstack-programmin
 - **kitesurfen:** eine weitere leidenschaft von mir ist das kitesurfen, was ich größtenteils mit meinem bruder mache
 - **musik:** ich höre sehr gerne musik und lerne auch gitarre
 - **reisen:** ich möchte bald nach tasmanien reisen, um zu surfen und zu studieren.
-
-## was hier zu finden ist 🌸
-
-- meine neovim-konfiguration
-- kleine projekte
-- meine übungen und lernfortschritte in verschiedenen programmiersprachen und frameworks
