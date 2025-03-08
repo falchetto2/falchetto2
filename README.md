@@ -1,4 +1,4 @@
-hi, ich bin ennio falchetto, 17 jahre alt und gehe in die htl spengergasse. hier teile ich meine projekte und ein bisschen über mich.
+hi, ich bin ennio falchetto, 17 jahre alt und gehe in die htl spengergasse. hier teile ich meine projekte und ein bisschen etwas über mich.
 
 ## über mich 🌻
 
